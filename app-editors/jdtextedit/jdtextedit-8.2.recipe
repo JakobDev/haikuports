@@ -35,6 +35,7 @@ REQUIRES="
 	pyqt5_python38
 	qscintilla_python38
 	requests_python38
+	setuptools_python38
 	"
 
 BUILD_REQUIRES="
